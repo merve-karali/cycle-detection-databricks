@@ -1,0 +1,13 @@
+*.docx
+*.pdf
+*.html
+*.md
+!README.md
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+.DS_Store
+*.pyc
+.ipynb_checkpoints/
+ridge_anomaly_detection.py
